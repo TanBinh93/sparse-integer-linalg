@@ -17,12 +17,11 @@ on the [PARI/GP](https://pari.math.u-bordeaux.fr/) project at Inria Bordeaux.
 The two modules reflect skills directly relevant to the position:
 
 - **CSR sparse matrices over integers** — a data structure used in the
-  linear algebra step of class group computations (a key bottleneck in
-  algorithms for imaginary quadratic fields, relevant to post-quantum cryptography).
+  linear algebra step of class group computations.
 
 - **Integer arithmetic routines** — the Euclidean algorithm and modular
-  arithmetic are foundational in PARI/GP and in algorithms for number
-  fields, lattice reduction, and cryptographic primitives.
+  arithmetic are foundational in algorithms for number
+  fields, lattice reduction.
 
 A key design choice: all computations are done with **exact integer arithmetic**
 (`long`), with no floating-point. This reflects the philosophy of symbolic

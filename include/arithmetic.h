@@ -2,8 +2,6 @@
  * arithmetic.h — Basic integer arithmetic routines
  *
  * These are fundamental building blocks in algorithmic number theory
- * and are heavily used in systems like PARI/GP for class group computations,
- * cryptographic primitives, and symbolic algebra.
  *
  * All functions operate on exact integers (long), with no floating-point.
  */

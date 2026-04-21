@@ -1,0 +1,4 @@
+test_csr
+test_arithmetic
+*.o
+*.exe

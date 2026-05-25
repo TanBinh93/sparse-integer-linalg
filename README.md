@@ -11,8 +11,7 @@ algorithmic number theory and exact computation:
 ## Motivation
 
 This project was written as a code sample to illustrate my programming
-style in C, in the context of applying for a software engineer position
-on the [PARI/GP](https://pari.math.u-bordeaux.fr/) project at Inria Bordeaux.
+style in C.
 
 The two modules reflect skills directly relevant to the position:
 
